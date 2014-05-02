@@ -1,0 +1,42 @@
+html, body{
+	background: #5B5B5B;
+}
+
+.title {
+	font-size: 40px;
+	color: #FFFFFF;
+	text-align: center;
+}
+
+#bar {
+	height: 5px;
+	background: #FFFFFF;
+	width: 100%;
+}
+
+.picTable{
+	text-align: center;
+}
+
+.larrow{
+	border-top: 50px solid #5B5B5B;
+    border-right: 50px solid #FFFFFF;
+    border-bottom: 50px solid #5B5B5B;
+    display: inline-block;
+	vertical-align: middle;
+    margin: 10px;
+}
+
+.pic{
+	display: inline-block;
+	vertical-align: middle;
+}
+
+.rarrow{
+	border-top: 50px solid #5B5B5B;
+    border-left: 50px solid #FFFFFF;
+    border-bottom: 50px solid #5B5B5B;
+    display: inline-block;
+	vertical-align: middle;
+    margin: 10px;
+}
